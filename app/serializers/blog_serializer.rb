@@ -1,3 +1,5 @@
+require 'acts-as-taggable-on'
+
 class BlogSerializer < ActiveModel::Serializer
-  attributes :id, :title, :body, :sample, :created_at
+  attributes :id, :title, :body, :description, :description_header, :created_at, :tag_list
 end
