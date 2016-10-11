@@ -24,11 +24,11 @@ group :development do
   gem 'listen', '~> 3.0.5'
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
-  gem 'pg'
+  gem 'mysql2'
 end
 
 group :production do
-  gem 'mysql2'
+  gem 'pg'
 end
 
 
