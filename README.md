@@ -1,24 +1,8 @@
-# README
+# Blog API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the Rails API for my personal blog. If you'd like to check it out, simply clone it, `bundle install`, and `rails s`
 
-Things you may want to cover:
+Rails Version : 5.0.0.1
+Ruby Version : 2.3.0
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Front-end Ember.js application located [here](https://github.com/julianken/poligap-ember)
